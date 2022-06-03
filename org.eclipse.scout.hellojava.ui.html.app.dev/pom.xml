@@ -60,7 +60,7 @@
       <plugin>
         <groupId>com.spotify</groupId>
         <artifactId>docker-maven-plugin</artifactId>
-        <version>0.4.13</version>
+        <version>1.2.2</version>
         <configuration>
         <!-- TODO [7.0] avd: reset to explicit group id to ${project.groupId} once the renaming from org.eclipse.scout.hellojava to org.eclipse.scout.hellojava is complete -->
           <imageName>${docker.image.prefix}/org.eclipse.scout.hellojava</imageName>
