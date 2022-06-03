@@ -9,3 +9,11 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+  - package-ecosystem: "maven" # See documentation for possible values
+    directory: "/org.eclipse.scout.hellojava.client" # Location of package manifests
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven" # See documentation for possible values
+    directory: "/org.eclipse.scout.hellojava.ui.html.app.dev" # Location of package manifests
+    schedule:
+      interval: "daily"
