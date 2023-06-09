@@ -37,6 +37,6 @@
     "@eclipse-scout/releng": "^10.0.0"
   },
   "dependencies": {
-    "@eclipse-scout/core": "11.0.38"
+    "@eclipse-scout/core": "23.1.19"
   }
 }
