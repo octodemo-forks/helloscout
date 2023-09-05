@@ -36,7 +36,7 @@
     "@eclipse-scout/releng": "^10.0.0"
   },
   "dependencies": {
-    "@eclipse-scout/core": "11.0.38",
+    "@eclipse-scout/core": "23.2.4",
     "@eclipse-scout/hellojava-core": "11.0.0-snapshot"
   }
 }
